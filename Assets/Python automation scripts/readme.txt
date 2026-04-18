@@ -1,0 +1,1 @@
+It will create an 800x100 black image, chop it into perfect 100x100 mathematical zones, and center a large, crisp monospace font dead in the middle of each zone.
